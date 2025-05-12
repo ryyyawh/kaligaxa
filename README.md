@@ -30,7 +30,7 @@ Kaligaxa is a bash based script which automatically installs kali linux in termu
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/kaligaxa`
+* `git clone https://github.com/ryyyawh/kaligaxa`
 * `cd $HOME`
 * `ls`
 * `cd kaligaxa`
