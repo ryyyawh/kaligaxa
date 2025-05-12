@@ -91,7 +91,7 @@ pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubuser
 
 ls
 
-cd kaligaxa
+cd kalimux
 
 ls
 
@@ -103,7 +103,7 @@ cd $HOME
 
 ls
 
-rm -rf kaligaxa
+rm -rf kalimux
 
 ls
 
